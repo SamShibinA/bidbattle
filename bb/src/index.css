@@ -2,9 +2,11 @@
 
 
 :root {
-  margin: 0;
+  margin:0;
   font-family: "Poppins", sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  background-color: #dcdcdc;
+  overflow-x: hidden;
+  background-color: #DCDCDC;
+  /* background-color: #dcdcdc; */
 }
